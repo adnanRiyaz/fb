@@ -1,0 +1,26 @@
+#fb-logo{
+    height: 200px;
+    width: 300px;
+}
+.form-control{
+    padding: 15px;
+    margin-bottom: 16px;
+    font-size: 15px;
+}
+#l-btn{
+    color: azure;
+    background-color: #1877f2;
+    font-size: 15px;
+    font-weight: 500;
+}
+#r-btn{
+    background-color: #36a420;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+
+    width: 233px;
+}
+body{
+    background-color: #f0f2f5;
+}
